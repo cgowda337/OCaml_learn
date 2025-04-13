@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/OCaml_test/META"
+  "_build/install/default/lib/OCaml_test/dune-package"
+  "_build/install/default/lib/OCaml_test/opam"
+]
+bin: [
+  "_build/install/default/bin/OCaml_test.exe"
+]
